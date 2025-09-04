@@ -26,7 +26,7 @@ Separate relay power supply for reliability
 - External 5V Power Supply for relays  
 
 4. Circuit Diagram
-![Circuit Diagram](./Circuit/temple_automation_tinkercad.png)  
+
 Designed in [Tinkercad](https://www.tinkercad.com/)
 
 5. Arduino Code
